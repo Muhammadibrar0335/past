@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+/* about me img */
+.carousel-item{
+    width: 100%;
+    height: 80vh;
+}
+.btn:hover{
+    background-color: red;
+}
+
+
+/* card section img */
+.card-body img{
+    min-width: 70%;
+    max-height: 300px;
+}
+
+
+/* contact div img  */
+.contact img{
+    width: 70%;
+    height: 80vh;
+}
